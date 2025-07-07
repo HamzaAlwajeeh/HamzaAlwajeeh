@@ -1,4 +1,3 @@
-
 <p align="center"><strong>اللَّهُم نورًا ممتدًا منك يُضيء طريقي وأيامي</strong></p>
 
 <h1 align="center">👋 Hi, I’m Hamza Yahya Alwajeeh</h1>
@@ -16,23 +15,25 @@
 ---
 
 ### 💡 About Me
+
 I'm a committed and enthusiastic developer with a strong passion for Flutter. I have practical experience working on academic and personal projects, solving programming problems, and collaborating within teams under pressure. I also have solid skills in Git & GitHub for code management and version control.
 
 ---
 
 ### 🛠️ Skills & Tools
-- **Programming Languages**: C++, C#, Python, HTML, CSS, PHP, Dart, MySQL  
-- **Frameworks & Tools**:  
-  - Flutter  
-  - Laravel  
-  - Windows Forms (.NET Framework)  
-- **Development Environments**:  
-  - Visual Studio Code  
-  - Visual Studio  
-- **Other Skills**:  
-  - Git & GitHub  
-  - Debugging and problem-solving  
-  - Code organization and reuse  
+
+- **Programming Languages**: C++, C#, Python, HTML, CSS, PHP, Dart, MySQL
+- **Frameworks & Tools**:
+  - Flutter
+  - Laravel
+  - Windows Forms (.NET Framework)
+- **Development Environments**:
+  - Visual Studio Code
+  - Visual Studio
+- **Other Skills**:
+  - Git & GitHub
+  - Debugging and problem-solving
+  - Code organization and reuse
   - Fast learning and adaptation to new tools
 
 ---
@@ -59,10 +60,24 @@ I'm a committed and enthusiastic developer with a strong passion for Flutter. I 
   A Flutter app that fetches and displays categorized news using APIs.  
   🔗 [View on GitHub](https://github.com/HamzaAlwajeeh/News-App)
 
-  #### 🖼️ Preview  
+  #### 🖼️ Preview
+
   <img src="https://raw.githubusercontent.com/HamzaAlwajeeh/HamzaAlwajeeh/main/assets/news_app_preview.jpg" alt="News App UI" width="400"/>
 
 > 🔎 _See all projects at_ 👉 [github.com/HamzaAlwajeeh](https://github.com/HamzaAlwajeeh)
+
+---
+
+### 👨‍💻 More About Me
+
+- 🔭 I’m currently a 3rd-year student studying Information Technology at Al-Rayan University.
+- 🌱 I’m currently learning advanced Flutter, state management, and Laravel backend development.
+- 👯 I’m looking to collaborate on Flutter mobile apps and full-stack systems.
+- 🤔 I’m looking for help with publishing apps to the Play Store and hosting Laravel projects online.
+- 💬 Ask me about Flutter, Laravel, Git/GitHub, or solving coding problems.
+- 📫 You can reach me at: [ha20mza60@gmail.com](mailto:ha20mza60@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy debugging and writing clean, maintainable code that is easy to understand.
 
 ---
 
@@ -83,22 +98,26 @@ I'm a committed and enthusiastic developer with a strong passion for Flutter. I 
 ---
 
 ### 🌍 Contact Information
-- 📧 Email: ha20mza60@gmail.com  
-- 📱 Phone / WhatsApp: +967 771832796  
-- 📍 Location: Mukalla, Yemen  
+
+- 📧 Email: ha20mza60@gmail.com
+- 📱 Phone / WhatsApp: +967 771832796
+- 📍 Location: Mukalla, Yemen
 
 **🌐 Social Links:**
-- 🔗 GitHub: [HamzaAlwajeeh](https://github.com/HamzaAlwajeeh/HamzaAlwajeeh)  
-- 📸 Instagram: [@7a_._za](https://www.instagram.com/7a_._za?igsh=MWpwdHJ2YTBldXk3)  
-- 📘 Facebook: [Hamza Alwajeeh](https://www.facebook.com/hamza.alwajeeh?mibextid=ZbWKwL)  
+
+- 🔗 GitHub: [HamzaAlwajeeh](https://github.com/HamzaAlwajeeh/HamzaAlwajeeh)
+- 📸 Instagram: [@7a\_._za](https://www.instagram.com/7a_._za?igsh=MWpwdHJ2YTBldXk3)
+- 📘 Facebook: [Hamza Alwajeeh](https://www.facebook.com/hamza.alwajeeh?mibextid=ZbWKwL)
 - 💬 WhatsApp: [wa.me/+967771832796](https://wa.me/+967771832796)
 
 ---
 
 ### 🧠 Quote
+
 > _"Every day is a fresh beginning."_
 
 ---
 
 ### 🎯 Career Objective
+
 I aim to join a productive and inspiring work environment where I can develop my skills and contribute to building innovative and high-quality software projects.
