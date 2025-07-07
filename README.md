@@ -2,7 +2,7 @@
 <p align="center"><strong>اللَّهُم نورًا ممتدًا منك يُضيء طريقي وأيامي</strong></p>
 
 <h1 align="center">👋 Hi, I’m Hamza Yahya Alwajeeh</h1>
-<p align="center">🎯 Passionate Flutter Developer • Git & GitHub Enthusiast • Graphics & Strong Programming</p>
+<p align="center">🎯 Passionate Flutter Developer • <b>Git</b> & <b>GitHub</b> Enthusiast • <b>Graphics & Strong Programming</b></p>
 
 ---
 
@@ -11,7 +11,7 @@
 - 🔧 Mobile App Developer specializing in **Flutter** & **Laravel**
 - 💡 I love building clean UIs, creative mobile apps, and solving real-world problems through code.
 - 🧠 Experienced in version control (Git), performance optimization, backend integration, and teamwork.
-- 🌍 From Yemen 🇾🇪 | I speak Arabic and English
+- 🌍 From **Yemen** 🇾🇪 | I speak **Arabic**
 - 🚀 Currently building: exam systems, food delivery apps, and UI prototypes
 
 ---
@@ -74,8 +74,6 @@
   A Flutter app that fetches and displays categorized news using APIs.  
   🔗 [View on GitHub](https://github.com/HamzaAlwajeeh/News-App)
 
-  #### 🖼️ Preview  
-  <img src="https://raw.githubusercontent.com/HamzaAlwajeeh/HamzaAlwajeeh/main/assets/news_app_preview.jpg" alt="News App UI" width="400"/>
 
 > 🔎 _See all projects at_ 👉 [github.com/HamzaAlwajeeh](https://github.com/HamzaAlwajeeh)
 
