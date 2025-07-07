@@ -68,8 +68,6 @@
   A Flutter app that fetches and displays categorized news using APIs.  
   🔗 [View on GitHub](https://github.com/HamzaAlwajeeh/News-App)
 
-  #### 🖼️ Preview  
-  <img src="https://raw.githubusercontent.com/HamzaAlwajeeh/HamzaAlwajeeh/main/assets/news_app_preview.jpg" alt="News App UI" width="400"/>
 
 > 🔎 _See all projects at_ 👉 [github.com/HamzaAlwajeeh](https://github.com/HamzaAlwajeeh)
 
