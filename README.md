@@ -4,6 +4,18 @@
 <h1 align="center">👋 Hi, I’m Hamza Yahya Alwajeeh</h1>
 <p align="center">🎯 Passionate Flutter Developer • Git & GitHub Enthusiast • Graphics & Strong Programming</p>
 
+---
+
+### 👨‍💻 About Me
+
+- 🔧 Mobile App Developer specializing in **Flutter** & **Laravel**
+- 💡 I love building clean UIs, creative mobile apps, and solving real-world problems through code.
+- 🧠 Experienced in version control (Git), performance optimization, backend integration, and teamwork.
+- 🌍 From Yemen 🇾🇪 | I speak Arabic and English
+- 🚀 Currently building: exam systems, food delivery apps, and UI prototypes
+
+---
+
 <p align="center">
   <img src="https://img.shields.io/github/followers/HamzaAlwajeeh?label=GitHub%20Followers&style=social" />
   <img src="https://img.shields.io/github/stars/HamzaAlwajeeh?label=GitHub%20Stars&style=social" />
@@ -15,25 +27,22 @@
 
 ---
 
-### 💡 About Me
-I'm a committed and enthusiastic developer with a strong passion for Flutter. I have practical experience working on academic and personal projects, solving programming problems, and collaborating within teams under pressure. I also have solid skills in Git & GitHub for code management and version control.
+### 🧰 Tech Stack
 
----
-
-### 🛠️ Skills & Tools
-- **Programming Languages**: C++, C#, Python, HTML, CSS, PHP, Dart, MySQL  
-- **Frameworks & Tools**:  
-  - Flutter  
-  - Laravel  
-  - Windows Forms (.NET Framework)  
-- **Development Environments**:  
-  - Visual Studio Code  
-  - Visual Studio  
-- **Other Skills**:  
-  - Git & GitHub  
-  - Debugging and problem-solving  
-  - Code organization and reuse  
-  - Fast learning and adaptation to new tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-F55247?logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+</p>
 
 ---
 
@@ -63,19 +72,6 @@ I'm a committed and enthusiastic developer with a strong passion for Flutter. I 
   <img src="https://raw.githubusercontent.com/HamzaAlwajeeh/HamzaAlwajeeh/main/assets/news_app_preview.jpg" alt="News App UI" width="400"/>
 
 > 🔎 _See all projects at_ 👉 [github.com/HamzaAlwajeeh](https://github.com/HamzaAlwajeeh)
-
----
-
-### 👨‍💻 More About Me
-
-- 🔭 I’m currently a 3rd-year student studying Information Technology at Al-Rayan University.
-- 🌱 I’m currently learning advanced Flutter, state management, and Laravel backend development.
-- 👯 I’m looking to collaborate on Flutter mobile apps and full-stack systems.
-- 🤔 I’m looking for help with publishing apps to the Play Store and hosting Laravel projects online.
-- 💬 Ask me about Flutter, Laravel, Git/GitHub, or solving coding problems.
-- 📫 You can reach me at: [ha20mza60@gmail.com](mailto:ha20mza60@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy debugging and writing clean, maintainable code that is easy to understand.
 
 ---
 
@@ -115,4 +111,3 @@ I'm a committed and enthusiastic developer with a strong passion for Flutter. I 
 
 ### 🎯 Career Objective
 I aim to join a productive and inspiring work environment where I can develop my skills and contribute to building innovative and high-quality software projects.
-
